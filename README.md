@@ -1,6 +1,7 @@
-#  FL Studio Mobile 中文本地化与增强
+# FL Studio Mobile 汉化版 · 中文本地化与增强
 
-> FL Studio Mobile 中文本地化 + 功能增强项目  
+> **FL Studio Mobile 汉化版**（英文全称 FL Studio Mobile，常被搜作「FLM 汉化版 / FL Studio Mobile 汉化」）  
+> 中文本地化 + 功能增强项目  
 > 当前最新版本：**v4.0.0**
 
 在中文界面的基础上，加入 **自定义翻译、字体切换、桌宠、音频可视化、媒体预览、导入搜索、MIDI 艺术、ffmpeg 音频处理、更新检查** 等扩展功能。
@@ -10,7 +11,7 @@
 ## 🔗 官网与下载
 
 - 🌐 **官方网站**：https://www.xiaomao.online/
-- 📦 **GitHub Releases**：https://github.com/Xovaryn/FLM_zh-ch/releases
+- 📦 **GitHub Releases**：https://github.com/Xovaryn/FL-Studio-Mobile-Hanhua/releases
 - ☁️ **123 网盘**：[点击下载](https://1842262761.share.123pan.cn/123pan/2u60Td-AdwUh)
 
 ---
