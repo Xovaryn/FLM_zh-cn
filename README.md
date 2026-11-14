@@ -10,7 +10,7 @@
 
 ## 🔗 官网与下载
 
-- 🌐 **官方网站**：https://www.xiaomao.online/
+- 🌐 **官方网站**：https://www.maokit.com/
 - 📦 **GitHub Releases**：https://github.com/Xovaryn/FLM_zh-cn/releases
 - ☁️ **123 网盘**：[点击下载](https://1842262761.share.123pan.cn/123pan/2u60Td-AdwUh)
 
