@@ -343,7 +343,6 @@
 |---|---|
 | [**XiaoMao**](https://github.com/XiaoMao-yty) | 项目发起 / 核心开发 |
 | [**NovaLin**](https://github.com/ByNovaLin) | Web 开发 / 基础设施 |
-| [**Sole**](https://github.com/Sole09) | 项目开发 / 社区协作 |
 
 ---
 
